@@ -1,0 +1,97 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-image: url(https://static.vecteezy.com/system/resources/previews/004/242/985/original/abstract-luxury-shiny-dark-blue-background-with-lines-golden-glowing-free-vector.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100%;
+    width: 100%;
+}
+.head{
+    background-image: url(https://pub-static.fotor.com/assets/bg/ca5fa97f-7696-414b-bc87-9b5205b27575.jpg);
+    height: 200px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+}
+.head h1{
+    color: white;
+    font-size: 4rem;
+    margin: 0;
+    text-align: center;
+    padding-top:44px ;
+}
+.image{
+    background-image: url(./WhatsApp\ Image\ 2024-11-16\ at\ 21.38.58_423fd270.jpg);
+    background-size: cover;
+    height: 300px;
+    width: 300px;
+    border-radius: 300px;
+    margin: 20px;
+    margin-left: 40%;
+    box-shadow: 1px 1px 50px 1px pink;
+    
+}
+.name{
+    color: white;
+    height: 100px;
+    width: 300px;
+    text-align: center;
+    margin-left: 40%;
+}
+.name h1{
+    margin: 0;
+    padding: 0;
+}
+.name button{
+    padding: 5px;
+    height: 50px;
+    width: 100px;
+    font-size: large;
+    border-radius: 5px;
+    background-color: aqua;
+    font-weight: bolder;
+   
+}
+.name :hover button{
+    background-color: rgb(44, 207, 233);
+}
+.links{
+    margin-left: 70%;
+    padding: 30px;
+    width: 500px;
+    display: flex;
+    justify-content: space-between;
+    
+}
+.links :hover{
+    background-color: red;
+    transform: scale(1.03);
+    border-radius: 50px;
+}
+.table{
+    color: rgb(253, 253, 253);
+    margin: 30px;
+    
+}
+table{
+    font-size: 30px;
+    text-align: center;
+    border-style: solid;
+    border-collapse: collapse;
+}
+.table p{
+    font-size: large;
+}
+.table a{
+    font-size: 40px;
+}
+.contact{
+    color: white;
+    margin-left: 30px;
+
+}
+.contact a{
+    color: white;
+    font-size: 30px;
+}
